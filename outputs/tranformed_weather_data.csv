@@ -1,0 +1,11 @@
+date,city,temperature_celsius,humidity_percent,wind_speed_kph,weather_condition,temperature_fahrenheit
+2023-01-01,New York,5.0,60.0,10.0,Sunny,41.0
+2023-01-02,London,6.0,75.0,20.0,Snowy,42.8
+2023-01-01,Tokyo,10.0,50.0,5.0,Sunny,50.0
+2023-01-12,Tokyo,6.914285714285714,61.0,,RAINY,44.44571428571429
+2023-01-05,London,10.185714285714285,60.0,,Rainy,50.33428571428571
+2023-01-26,New York,0.5,37.0,26.3,unknown,32.9
+2023-01-29,Tokyo,10.2,,,Cloudy,50.36
+2023-01-29,New York,3.4,,,Snowy,38.12
+2023-01-05,Tokyo,-1.7,,23.0,Cloudy,28.94
+2023-01-11,Tokyo,6.914285714285714,,,Sunny,44.44571428571429
